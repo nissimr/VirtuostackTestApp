@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Virtustack Test App</string>
+    <string name="placeholder_text">fffffffff ffff</string>
+    <string name="fab_content_desc">Refresh</string>
+</resources>
